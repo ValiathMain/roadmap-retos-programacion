@@ -1,0 +1,36 @@
+# python en vs code
+
+# forma 1 de crear un comentario
+
+""" 
+forma 2 de crear un comentario
+
+"""
+# esto es una variable
+
+Variable = 1997
+
+# esto es una constante, pero en python no existe el concepto de constantes pero la comunidad las representa declarandolas en mayusculas
+
+GRAVEDAD = 9.81
+
+# variables de cada tipo
+# valores numericos int y float
+
+numero = 18
+numero = 12.5
+
+# valor tipo str
+palabra = "ayuda"
+
+# valores booleanos
+valor = True
+valor = False
+
+# ausencia de valor
+
+None
+
+# imprimir en terminal
+
+print("Hola python!!")
